@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Cristhofer Magno",
+      "email": "cristhofer.mendonca@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Elvis Magnum",
+      "email": "elvis.magnum@gmail.com"
+    },
+    {
+      "name": "Stefam",
+      "email": "stefam@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "loyd",
+      "email": "loyd@gmail.com",
+      "id": 7
+    }
+  ]
+}
